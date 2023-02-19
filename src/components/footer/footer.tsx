@@ -8,13 +8,13 @@ export const Footer = component$(() => {
   const links = [
     {
       linkProps: {
-        href: "mailto:doganozturk2005@gmail.com",
+        href: "mailto:website@tomlisankie.com",
       },
       text: "mail .",
     },
     {
       linkProps: {
-        href: "https://twitter.com/dodothebird",
+        href: "https://twitter.com/TomLisankie",
         target: "_blank",
         rel: "noopener",
       },
@@ -30,15 +30,7 @@ export const Footer = component$(() => {
     },
     {
       linkProps: {
-        href: "https://linkedin.com/in/doganozturk",
-        target: "_blank",
-        rel: "noopener",
-      },
-      text: "linkedin .",
-    },
-    {
-      linkProps: {
-        href: "https://www.notion.so/Do-an-zt-rk-6adacf6b91174b35bc9ce204f479b83b",
+        href: "https://read.cv/tomlisankie",
         target: "_blank",
         rel: "noopener",
       },
