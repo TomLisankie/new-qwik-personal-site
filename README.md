@@ -1,6 +1,6 @@
 # My Personal Blog
 
-Template provided by [doganozturk/blog-qwik](https://github.com/TomLisankie/blog-qwik).
+Originally forked from [doganozturk/blog-qwik](https://github.com/TomLisankie/blog-qwik).
 
 ## Local Development
 
@@ -29,7 +29,3 @@ npm install
 # Start local dev environment
 npm start
 ```
-
-## Author
-
-- **Thomas Lisankie** - [Github](https://github.com/TomLisankie)
