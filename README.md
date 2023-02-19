@@ -1,6 +1,6 @@
 # My Personal Blog
 
-Originally forked from [doganozturk/blog-qwik](https://github.com/TomLisankie/blog-qwik).
+Originally forked from [doganozturk/blog-qwik](https://github.com/doganozturk/blog-qwik).
 
 ## Local Development
 
