@@ -1,6 +1,6 @@
 # My Personal Blog
 
-This is my blog which I recently rewrote using [Qwik-City](https://qwik.builder.io/qwikcity/overview/). [My old blog](https://github.com/doganozturk/blog) had a straightforward setup; I especially like the idea of a minor CSS & JS footprint, inlining these resources for high [pagespeed](https://developers.google.com/speed/pagespeed/insights/?url=https://doganozturk.dev) performance. Qwik and Qwik-City give me even better results with many more features and a better developer experience.
+Template provided by [doganozturk/blog-qwik](https://github.com/doganozturk/blog-qwik).
 
 ## Local Development
 
