@@ -1,12 +1,12 @@
 {
   "name": "blog-qwik",
   "description": "Thomas Lisankie's Personal Blog",
-  "homepage": "https://github.com/doganozturk/blog-qwik#readme",
+  "homepage": "https://github.com/TomLisankie/blog-qwik#readme",
   "email": "doganozturk2005@gmail.com",
   "url": "https://doganozturk.dev/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/doganozturk/blog-qwik.git"
+    "url": "https://github.com/TomLisankie/blog-qwik.git"
   },
   "engines": {
     "node": ">=15.0.0"

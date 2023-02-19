@@ -1,6 +1,6 @@
 # My Personal Blog
 
-Template provided by [doganozturk/blog-qwik](https://github.com/doganozturk/blog-qwik).
+Template provided by [doganozturk/blog-qwik](https://github.com/TomLisankie/blog-qwik).
 
 ## Local Development
 
@@ -19,7 +19,7 @@ brew install node@18.12.1
 ### Installing
 
 ```
-git clone https://github.com/doganozturk/blog-qwik.git
+git clone https://github.com/TomLisankie/blog-qwik.git
 
 cd blog-qwik
 
@@ -32,4 +32,4 @@ npm start
 
 ## Author
 
-- **Thomas Lisankie** - [Github](https://github.com/doganozturk)
+- **Thomas Lisankie** - [Github](https://github.com/TomLisankie)

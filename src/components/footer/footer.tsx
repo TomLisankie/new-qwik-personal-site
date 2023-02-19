@@ -22,7 +22,7 @@ export const Footer = component$(() => {
     },
     {
       linkProps: {
-        href: "https://github.com/doganozturk",
+        href: "https://github.com/TomLisankie",
         target: "_blank",
         rel: "noopener",
       },
