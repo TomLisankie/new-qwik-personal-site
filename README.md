@@ -32,4 +32,4 @@ npm start
 
 ## Author
 
-- **Doğan Öztürk** - [Github](https://github.com/doganozturk)
+- **Thomas Lisankie** - [Github](https://github.com/doganozturk)

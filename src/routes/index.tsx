@@ -44,7 +44,7 @@ export default component$(() => {
   );
 });
 
-const title = "Doğan Öztürk | Blog";
+const title = "Thomas Lisankie | Blog";
 const description =
   "Ben Doğan, yazılım mühendisiyim. Genel olarak yazılım, detayda ise web geliştirme, önyüz geliştirme, Node.js, Python vb. konularda düşüncelerimi paylaşmaya çalışıyorum.";
 
@@ -57,7 +57,7 @@ export const head: DocumentHead = {
     },
     { name: "twitter:card", content: "summary" },
     { name: "twitter:site", content: title },
-    { name: "twitter:creator", content: "Doğan Öztürk" },
+    { name: "twitter:creator", content: "Thomas Lisankie" },
     { name: "twitter:title", content: title },
     { name: "twitter:description", content: description },
     {

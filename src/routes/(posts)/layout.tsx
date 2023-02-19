@@ -27,8 +27,8 @@ export const head: DocumentHead = ({ head }) => {
     meta: [
       ...head.meta,
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "Doğan Öztürk | Blog" },
-      { name: "twitter:creator", content: "Doğan Öztürk" },
+      { name: "twitter:site", content: "Thomas Lisankie | Blog" },
+      { name: "twitter:creator", content: "Thomas Lisankie" },
       { name: "twitter:title", content: head.title },
       { name: "twitter:description", content: description },
       {

@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "start_url": "/",
-  "name": "Doğan Öztürk | Blog",
-  "short_name": "Doğan Öztürk | Blog",
-  "description": "Doğan Öztürk | Blog",
+  "name": "Thomas Lisankie | Blog",
+  "short_name": "Thomas Lisankie | Blog",
+  "description": "Thomas Lisankie | Blog",
   "icons": [
     {
       "src": "/favicon/android-chrome-192x192.png",
